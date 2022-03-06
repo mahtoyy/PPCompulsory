@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13ce07de-55d4-4d65-8c75-b693dab5586a": {
+      "ProjectGuid": "13ce07de-55d4-4d65-8c75-b693dab5586a",
+      "DisplayName": "CompulsoryPPConsole",
+      "ColorIndex": 0
+    },
+    "9074746c-c740-4812-abfc-a92991c665c2": {
+      "ProjectGuid": "9074746c-c740-4812-abfc-a92991c665c2",
+      "DisplayName": "CompulsoryPPGui",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

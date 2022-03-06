@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompulsoryPPConsole", "Console\CompulsoryPPConsole\CompulsoryPPConsole.csproj", "{13CE07DE-55D4-4D65-8C75-B693DAB5586A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompulsoryPPGui", "GUI\CompulsoryPPGui\CompulsoryPPGui.csproj", "{9074746C-C740-4812-ABFC-A92991C665C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CE07DE-55D4-4D65-8C75-B693DAB5586A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CE07DE-55D4-4D65-8C75-B693DAB5586A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CE07DE-55D4-4D65-8C75-B693DAB5586A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CE07DE-55D4-4D65-8C75-B693DAB5586A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9074746C-C740-4812-ABFC-A92991C665C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9074746C-C740-4812-ABFC-A92991C665C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9074746C-C740-4812-ABFC-A92991C665C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9074746C-C740-4812-ABFC-A92991C665C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B35754A7-D0A1-4E49-BDD6-228A079CD7B3}
+	EndGlobalSection
+EndGlobal
