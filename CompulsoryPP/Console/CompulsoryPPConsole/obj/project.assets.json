@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin Banov\\Desktop\\sydvest\\CompulsoryPP\\CompulsoryPP\\Console\\CompulsoryPPConsole\\CompulsoryPPConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Martin Banov\\Desktop\\sydvest\\comp\\PPCompulsory\\CompulsoryPP\\Console\\CompulsoryPPConsole\\CompulsoryPPConsole.csproj",
       "projectName": "CompulsoryPPConsole",
-      "projectPath": "C:\\Users\\Martin Banov\\Desktop\\sydvest\\CompulsoryPP\\CompulsoryPP\\Console\\CompulsoryPPConsole\\CompulsoryPPConsole.csproj",
+      "projectPath": "C:\\Users\\Martin Banov\\Desktop\\sydvest\\comp\\PPCompulsory\\CompulsoryPP\\Console\\CompulsoryPPConsole\\CompulsoryPPConsole.csproj",
       "packagesPath": "C:\\Users\\Martin Banov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin Banov\\Desktop\\sydvest\\CompulsoryPP\\CompulsoryPP\\Console\\CompulsoryPPConsole\\obj\\",
+      "outputPath": "C:\\Users\\Martin Banov\\Desktop\\sydvest\\comp\\PPCompulsory\\CompulsoryPP\\Console\\CompulsoryPPConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martin Banov\\AppData\\Roaming\\NuGet\\NuGet.Config",

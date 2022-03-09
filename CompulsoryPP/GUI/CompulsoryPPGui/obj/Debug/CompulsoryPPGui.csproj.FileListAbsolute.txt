@@ -9,3 +9,14 @@ C:\Users\Martin Banov\Desktop\sydvest\CompulsoryPP\CompulsoryPP\GUI\CompulsoryPP
 C:\Users\Martin Banov\Desktop\sydvest\CompulsoryPP\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.csproj.CoreCompileInputs.cache
 C:\Users\Martin Banov\Desktop\sydvest\CompulsoryPP\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.exe
 C:\Users\Martin Banov\Desktop\sydvest\CompulsoryPP\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.pdb
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\bin\Debug\CompulsoryPPGui.exe.config
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\bin\Debug\CompulsoryPPGui.exe
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\bin\Debug\CompulsoryPPGui.pdb
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.csproj.AssemblyReference.cache
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.Form1.resources
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.Properties.Resources.resources
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.csproj.GenerateResource.cache
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.csproj.CoreCompileInputs.cache
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.exe
+C:\Users\Martin Banov\Desktop\sydvest\comp\PPCompulsory\CompulsoryPP\GUI\CompulsoryPPGui\obj\Debug\CompulsoryPPGui.pdb

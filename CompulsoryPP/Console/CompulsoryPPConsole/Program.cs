@@ -13,7 +13,6 @@ namespace PrimeGenerator
         static SemaphoreSlim s = new SemaphoreSlim(1, 1);
         static Mutex mutex = new Mutex();
         static readonly object theLock = new object();
-        static int seed = 1234;
         static void Main(string[] args)
         {
             while (true)
@@ -45,7 +44,7 @@ namespace PrimeGenerator
 
                 Console.WriteLine("Mutex");
 
-                ShowTimeInSeconds(() => GenerateParallelSemaphore(lowerLimit, upperLimit));
+                ShowTimeInSeconds(() => GenerateParallelMutex(lowerLimit, upperLimit));
 
                 Console.WriteLine("Semaphore");
 
@@ -68,7 +67,7 @@ namespace PrimeGenerator
 
         public static bool IsPrime(ulong number)
         {
-            if (number == 1) return true;
+            if (number == 1) return false;
 
             if (number % 2 == 0 && number > 2) return false;
 
@@ -86,7 +85,6 @@ namespace PrimeGenerator
             var list = new List<ulong>();
             Parallel.ForEach(Partitioner.Create((int)min, (int)max), (range,loopState) =>
             {
-                Random rnd = new Random(Interlocked.Increment(ref seed));
                 for (int i = range.Item1; i < range.Item2; i++)
                 {
                     if (IsPrime((ulong)i))
@@ -107,7 +105,6 @@ namespace PrimeGenerator
             List<ulong> list = new List<ulong>();
             Parallel.ForEach(Partitioner.Create((int)min, (int)max), (range, loopState) =>
             {
-                Random rnd = new Random(Interlocked.Increment(ref seed));
                 for (int i = range.Item1; i < range.Item2; i++)
                 {
                     if (IsPrime((ulong)i))
@@ -127,7 +124,6 @@ namespace PrimeGenerator
             List<ulong> list = new List<ulong> ();
             Parallel.ForEach(Partitioner.Create((int)min, (int)max), (range, loopState) =>
             {
-                Random rnd = new Random(Interlocked.Increment(ref seed));
                 for (int i = range.Item1; i < range.Item2; i++)
                 {
                     if (IsPrime((ulong)i))
